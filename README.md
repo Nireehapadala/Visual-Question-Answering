@@ -18,7 +18,7 @@ A deep learning project that answers questions about images using multi-modal AI
 ├── README.md                            # This documentation file
 ├── requirements.txt                     # Dependencies (optional)
 
-
+'''
 🚀 How to Use
 Open the Notebook:
 Launch visual_question_and_answering.ipynb using Jupyter Notebook or Google Colab.
