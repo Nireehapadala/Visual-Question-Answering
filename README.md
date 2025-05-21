@@ -12,11 +12,12 @@ A deep learning project that answers questions about images using multi-modal AI
 ---
 
 ## 🧱 Project Structure
-
+<pre>
 ```bash
 ├── visual_question_and_answering.ipynb  # Main VQA notebook
 ├── README.md                            # This documentation file
 ├── requirements.txt                     # Dependencies (optional)'''
+</pre>
 
 
 🚀 How to Use
