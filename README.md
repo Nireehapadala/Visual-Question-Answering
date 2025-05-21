@@ -59,6 +59,10 @@ Add GUI using Gradio or Streamlit
 
 Multi-question dialogue over the same image
 
+📬 Contact
+Created by Nireeha Padala
+📧 [nireehap@gmail.com]
+🔗 [www.linkedin.com/in/nireeha-padala-6a71ab2a0] | [https://github.com/Nireehapadala]
 Support for multiple images in context
 
 Integration with real-time webcam input
