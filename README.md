@@ -1,5 +1,24 @@
 # Visual-Question-Answering-with-Deep-Learning
 A deep learning project that answers questions about images using multi-modal AI models.
+
+## 📌 Features
+
+- 🖼️ **Image Uploading and Preprocessing**
+- 💬 **Natural Language Question Input**
+- 🧠 **Visual-Linguistic Reasoning** with pre-trained models
+- ✅ **Answer Generation** based on visual content
+- 🔍 **Interactive Question Answering System**
+
+---
+
+## 🧱 Project Structure
+
+```bash
+├── visual_question_and_answering.ipynb  # Main VQA notebook
+├── README.md                            # This documentation file
+├── requirements.txt                     # Dependencies (optional)
+
+
 🚀 How to Use
 Open the Notebook:
 Launch visual_question_and_answering.ipynb using Jupyter Notebook or Google Colab.
@@ -41,13 +60,11 @@ Add GUI using Gradio or Streamlit
 
 Multi-question dialogue over the same image
 
+
 📬 Contact
 Created by Nireeha Padala
 📧 [nireehap@gmail.com]
 🔗 [www.linkedin.com/in/nireeha-padala-6a71ab2a0] | [https://github.com/Nireehapadala]
-Support for multiple images in context
-
-Integration with real-time webcam input
 
 
 
