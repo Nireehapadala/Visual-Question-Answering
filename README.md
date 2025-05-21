@@ -50,10 +50,11 @@ Answer: A teddy bear
 🌐 Applications
 Accessibility tools for visually impaired users
 
-📬 Contact Created by Nireeha Padala 📧 [nireehap@gmail.com] 🔗 [www.linkedin.com/in/nireeha-padala-6a71ab2a0] | [https://github.com/Nireehapadala]
+
 AI-powered image search and captioning
 
 Education and e-learning support
 
 Interactive assistants
 
+📬 Contact Created by Nireeha Padala 📧 [nireehap@gmail.com] 🔗 [www.linkedin.com/in/nireeha-padala-6a71ab2a0] | [https://github.com/Nireehapadala]
